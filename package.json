@@ -1,0 +1,14 @@
+{
+  "name": "style-dictionary-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "token:transform": "token-transformer tokens.json output.json",
+    "token:gen": "style-dictionary build --config style-dictionary.config.json",
+    "token": "yarn token:transform && yarn token:gen"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.28"
+  }
+}

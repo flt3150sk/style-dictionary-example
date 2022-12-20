@@ -1,0 +1,75 @@
+
+/**
+ * Do not edit directly
+ * Generated on Tue, 20 Dec 2022 14:53:17 GMT
+ */
+
+$token-set-order-0: global !default;
+$border-width-4: 4 !default;
+$border-width-3: 3 !default;
+$border-width-2: 2 !default;
+$border-width-1: 1 !default;
+$opacity-80: 0.8 !default;
+$opacity-50: 0.5 !default;
+$opacity-20: 0.2 !default;
+$font-family-base: "Roboto","Hiragino Sans","Hiragino Kaku Gothic ProN","YuGothic" !default;
+$font-size-32: 32px !default;
+$font-size-24: 24px !default;
+$font-size-20: 20px !default;
+$font-size-16: 16px !default;
+$font-size-14: 14px !default;
+$font-size-12: 12px !default;
+$font-size-10: 10px !default;
+$gray-200: #F4F5F2 !default;
+$gray-400: #EFF0ED !default;
+$gray-600: #DEE0DA !default;
+$gray-800: #60615F !default;
+$gray-1000: #232422 !default;
+$whtie-1000: #FFFFFF !default;
+$green-200: #F8FAF5 !default;
+$green-400: #E7EFDF !default;
+$green-600: #84B312 !default;
+$green-800: #849E6D !default;
+$green-1000: #3B6B10 !default;
+$border-radius-full: 9999px !default;
+$border-radius-24: 24px !default;
+$border-radius-12: 12px !default;
+$border-radius-8: 8px !default;
+$border-radius-4: 4px !default;
+
+$css-tokens: (
+  'border-radius-4': $border-radius-4,
+  'border-radius-8': $border-radius-8,
+  'border-radius-12': $border-radius-12,
+  'border-radius-24': $border-radius-24,
+  'border-radius-full': $border-radius-full,
+  'Green 1000': $green-1000,
+  'Green 800': $green-800,
+  'Green 600': $green-600,
+  'Green 400': $green-400,
+  'Green 200': $green-200,
+  'Whtie 1000': $whtie-1000,
+  'Gray 1000': $gray-1000,
+  'Gray 800': $gray-800,
+  'Gray 600': $gray-600,
+  'Gray 400': $gray-400,
+  'Gray 200': $gray-200,
+  'font-size-10': $font-size-10,
+  'font-size-12': $font-size-12,
+  'font-size-14': $font-size-14,
+  'font-size-16': $font-size-16,
+  'font-size-20': $font-size-20,
+  'font-size-24': $font-size-24,
+  'font-size-32': $font-size-32,
+  'font-family-base': $font-family-base,
+  'opacity-20': $opacity-20,
+  'opacity-50': $opacity-50,
+  'opacity-80': $opacity-80,
+  'border-width-1': $border-width-1,
+  'border-width-2': $border-width-2,
+  'border-width-3': $border-width-3,
+  'border-width-4': $border-width-4,
+  'tokenSetOrder': (
+    '0': $token-set-order-0
+  )
+);
